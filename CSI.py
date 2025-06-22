@@ -166,7 +166,7 @@ def mostrar_contexto_meio():
         "\nEla o descreveu como um maníaco, louco, lunático. Ele a torturou e machucou incessantemente, a tal ponto que, grávida, perdeu o bebê.\nQuando ela achou que finalmente morreria, ele simplesmente parou.\n"
         "\nEla relata:\nÉ como se, para ele, por algum motivo, tivesse perdido a graça me fazer sofrer."
     )
-    efeito_digitacao(texto_intro, velocidade=0.05)
+    efeito_digitacao(texto_intro, velocidade=0.08)
     
     
 
@@ -197,7 +197,7 @@ def mostrar_arquivos_confidenciais():
         "\n-Vítima N°2 = Pele morena, aparenta uns 28 anos, lindos cabelos morenos e lisos,\nolhos castanhos lindos, porém sem filhos, seu filho está na barriga ainda com somente 3 meses de gestação."
         "\n-Vítima N°3 = Pele morena, cabelos lisos sedosos e morenos, aproximadamente 30 anos,\nolhos castanhos lindos, mãe de 2 crianças, uma de 6 meses e outra de 4 anos."
     )
-    efeito_digitacao(texto_intro, velocidade=0.05)
+    efeito_digitacao(texto_intro, velocidade=0.08)
     
     abrir_pasta(pasta_imagens)
     
